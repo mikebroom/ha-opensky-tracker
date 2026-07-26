@@ -1,7 +1,7 @@
 {
   "domain": "opensky_tracker",
   "name": "OpenSky Local Tracker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "documentation": "https://github.com/mikebroom/ha-opensky-tracker",
   "dependencies": [],
   "requirements": ["gspread==5.12.0", "oauth2client==4.1.3"], 
